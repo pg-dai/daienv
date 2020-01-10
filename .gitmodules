@@ -1,0 +1,3 @@
+[submodule "bashdoc"]
+	path = lib/bashdoc
+	url = https://github.com/ajdiaz/bashdoc.git
