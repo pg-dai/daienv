@@ -1,0 +1,21 @@
+# fun: ls系
+# env: ls: ls --color
+# env: la: ls -l
+# env: ll: ls -a
+alias ls="ls --color"
+alias ll="ls -l"
+alias la="ls -a"
+
+# fun: git系
+# env: ga: git add
+# env: gc: git commit
+# env: gp: git push
+# env: gcl: git clone
+# env: gpl: git pull
+alias ga="git add"
+alias gc="git commit"
+alias gp="git push"
+alias gcl="git clone"
+alias gpl="git pull"
+
+
