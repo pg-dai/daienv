@@ -1,14 +1,14 @@
 current = `pwd`
 assets = assets
 docs   = docs
-lib    = lib
+libs    = libs
 
 bashrc     = .bashrc
 bash_dir   = .bash
 bash_files = alias bind export func opt
 
 bashdoc:
-	cd assets/.bash; ../../lib/bashdoc/bashdoc \
+	cd assets/.bash; ../../libs/bashdoc/bashdoc \
 	-o ../../docs/bashdoc.html \
 	$(bash_files);
 
