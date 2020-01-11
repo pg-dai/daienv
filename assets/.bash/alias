@@ -19,3 +19,6 @@ alias gcl="git clone"
 alias gpl="git pull"
 
 
+# fun: ssh系
+# env: ssh-dai: ssh dai@daichisugiyama.com -p 49152
+alias ssh-dai="ssh dai@daichisugiyama.com -p 49152"
