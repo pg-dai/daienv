@@ -1,0 +1,5 @@
+[user]
+	email = daichisugiyama@outlook.com
+	name = Daichi Sugiyama
+[core]
+	editor = emacs -nw
