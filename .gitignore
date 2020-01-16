@@ -1,2 +1,2 @@
-assets/.emacs.d/auto-save-list
-assets/.emacs.d/elpa
+dotfiles/emacs.d/auto-save-list
+dotfiles/emacs.d/elpa
