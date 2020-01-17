@@ -1,6 +1,6 @@
 # environment
 
-## installation
+## install
 
 ```
 git clone このリポジトリ
