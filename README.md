@@ -4,7 +4,7 @@
 
 ```
 git clone このリポジトリ
-cd ./このリポジトリ
+cd ./environment
 chmod +x setup.sh
 ./setup.sh
 ```
