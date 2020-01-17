@@ -1,5 +1,13 @@
 # environment
 
+## installation
+
+```
+git clone このリポジトリ
+cd ./environment
+chmod +x setup.sh
+./setup.sh
+```
 
 ## directory structure
 
@@ -15,14 +23,6 @@
 - README.md このファイル
 ```
 
-## installation
-
-```
-git clone このリポジトリ
-cd ./environment
-chmod +x setup.sh
-./setup.sh
-```
 
 
 
