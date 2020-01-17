@@ -3,10 +3,10 @@
 ## install
 
 ```
-git clone このリポジトリ
-cd ./environment
-chmod +x setup.sh
-./setup.sh
+$ git clone このリポジトリ
+$ cd ./environment
+$ chmod +x setup.sh
+$ ./setup.sh
 ```
 
 ## directory structure
