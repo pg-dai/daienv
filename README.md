@@ -17,10 +17,10 @@ $ ./setup.sh
 ├── README.md
 ├── bin/           バイナリ
 ├── dotfiles/      ドット(.)から始まるファイル
-│   ├── shell/     - シェル設定
-│   ├── bashrc     - bash設定
-│   ├── emacs.d/   - emacs設定
-│   └── gitconfig  - git設定
+│   ├── shell/
+│   ├── bashrc
+│   ├── emacs.d/
+│   └── gitconfig
 ├── lib/           ライブラリ
 └── setup.sh       セットアップスクリプト
 ```
