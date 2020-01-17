@@ -10,22 +10,24 @@ $ chmod +x setup.sh
 $ ./setup.sh
 ```
 
-## Structure
+## Tree
 
 ```
-- bin/      バイナリ
-- dotfiles/ ドット(.)から始まるもの
-  - shell/        シェル設定
-  - emacs.d/      emacs設定
-  - bashrc        bash設定
-  - gitconfig     Git設定
-- lib/      ライブラリ
-- setup.sh  セットアップ用
-- README.md このファイル
+.
+├── README.md
+├── bin/           バイナリ類
+├── dotfiles/      ドット(.)から始まるもの
+│   ├── shell/     - シェル設定
+│   ├── bashrc     - bash設定
+│   ├── emacs.d/   - emacs設定
+│   └── gitconfig  - git設定
+├── install/       インストール類
+├── lib/           ライブラリ類
+└── setup.sh       セットアップスクリプト
 ```
 
 ## Licence
-MIT
+[MIT](https://github.com/dai-aiueo/LICENSE)
 
 ## Author
 [dai-aiueo](https://github.com/dai-aiueo)
