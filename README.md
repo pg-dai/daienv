@@ -15,14 +15,13 @@ $ ./setup.sh
 ```
 .
 ├── README.md
-├── bin/           バイナリ類
-├── dotfiles/      ドット(.)から始まるもの
+├── bin/           バイナリ
+├── dotfiles/      ドット(.)から始まるファイル
 │   ├── shell/     - シェル設定
 │   ├── bashrc     - bash設定
 │   ├── emacs.d/   - emacs設定
 │   └── gitconfig  - git設定
-├── install/       インストール類
-├── lib/           ライブラリ類
+├── lib/           ライブラリ
 └── setup.sh       セットアップスクリプト
 ```
 
