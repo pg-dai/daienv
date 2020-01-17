@@ -10,7 +10,7 @@ $ chmod +x setup.sh
 $ ./setup.sh
 ```
 
-## Tree
+## Directory Structure
 
 ```
 .
