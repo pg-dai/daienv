@@ -1,6 +1,6 @@
-# environment 環境設定
+# environment
 
-# セットアップ
+## install
 
 ```
 git clone このリポジトリ
@@ -9,14 +9,12 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-# ディレクトリ構成
+## directory structure
 ```
-- bin/ バイナリ
+- bin/      バイナリ
 - dotfiles/ ドット(.)から始まるファイル
-- lib/ ライブラリ
-- .gitignore
-- .gitmodules
-- setup.sh セットアップ用
+- lib/      ライブラリ
+- setup.sh  セットアップ用
 - README.md このファイル
 ```
 
