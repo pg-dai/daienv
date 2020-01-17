@@ -1,6 +1,7 @@
-# environment
+Environment
+==
 
-## install
+## Install
 
 ```
 $ git clone このリポジトリ
@@ -9,7 +10,7 @@ $ chmod +x setup.sh
 $ ./setup.sh
 ```
 
-## directory structure
+## Structure
 
 ```
 - bin/      バイナリ
@@ -23,6 +24,11 @@ $ ./setup.sh
 - README.md このファイル
 ```
 
+## Licence
+MIT
+
+## Author
+[dai-aiueo](https://github.com/dai-aiueo)
 
 
 
